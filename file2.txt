@@ -1,10 +1,6 @@
 file 1 phong tao
 
+1 thang nao do, da sua lai file nay tren main branch
 
 
-
-
-
-phng suafile 2. o branch dev
-
-tao dau biet gi dau tao code tiep.
+tao ko thich code cua thang nao het.
